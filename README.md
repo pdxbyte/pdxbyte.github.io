@@ -3,6 +3,7 @@ pdxbyte.github.io
 
 Github pages repo
 
+This site hosted at [pdxbyte](pdxbyte.org)
+
 # Contributing
-I thought github was building a jekyll instance, but I got static html. 
-Help converting to something that can handle wiki markup would be helpful.
+It's Jekyll/Markdown. Make a pull request, or send Markdown, Text or HTML.
