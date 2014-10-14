@@ -3,7 +3,7 @@ title: Welcome to pdxbyte.
 layout: page
 permalink: /
 ---
-A Portland Oregon users group primarily for languages that compile to machine native format such as C, C++, and Assembly.
+A Portland Oregon users group primarily for languages that compile to machine native format such as C, C++, Assembly as well as dabble in chip design and architecture.
 
 #Meeting format
 
@@ -41,9 +41,9 @@ Portland, Oregon 97204
 
 Don't be a jerk. (placeholder till more specific rules are written)
 
-#Organizers
+#Organizers and Contributers
 
-Daniel Patrick Johnson ([@teknotus](https://github.com/teknotus)) got things moving with a call for proposals on the DorkbotPDX mailing list, Thomas Lockney ([@tlockney](https://github.com/tlockney)) thought of the name pdxbyte, and generously donated the domain names.
+Daniel Patrick Johnson ([@teknotus](https://github.com/teknotus)) got things moving with a call for proposals on the DorkbotPDX mailing list, Thomas Lockney ([@tlockney](https://github.com/tlockney)) thought of the name pdxbyte, and generously donated the domain names, Evie Strohmeyer ([@SpaceDictator](https://gihub.com/SpaceDictator)) helps with website, planning, outreach, organization, and motivation!
 
 #Contribute
 
