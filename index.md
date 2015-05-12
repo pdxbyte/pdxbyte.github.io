@@ -26,12 +26,12 @@ Could be almost anything. Starting a new hobby operating system? Programming spi
 
 #Location and time
 
-2nd Tuesdays at New Relic doors at 6:30PM, and first talk at 7PM
+2nd Tuesdays at Crowd Compass doors at 6:00PM, and first talk at 7PM
 
-New Relic  
-111 SW 5th Avenue, Suite 2900  
-Portland, Oregon 97204  
-[Map](https://www.google.com/maps/preview?q=111+SW+5th+Avenue,+Suite+2900,+Portland+Oregon+97204+United+States)
+[Crowd Compass](http://www.crowdcompass.com/home.shtml) The leading mobile app provider for conferences and meetings  
+308 SW Second Ave., Suite 200,  
+Portland, OR 97204 [Map](http://maps.google.com/maps?q=308+SW+Second+Ave.%2C+Suite+200%2C+Portland%2C+OR%2C+Portland+OR+97204+us)  
+[![Crowd Compass Logo](http://www.crowdcompass.com/images/og-badge.png)](http://www.crowdcompass.com/home.shtml)
 
 #Get in Touch
 
